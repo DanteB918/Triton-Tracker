@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.03ee7b06.css",
-    "main.js": "/static/js/main.f95b36d4.js",
-    "static/js/453.d55cc8a4.chunk.js": "/static/js/453.d55cc8a4.chunk.js",
-    "static/media/poseidon.png": "/static/media/poseidon.ef147e44afb3bcd8c980.png",
-    "static/media/loader.svg": "/static/media/loader.a7b74ca303c23a254e43d0f57c4a9adc.svg",
-    "index.html": "/index.html",
-    "main.03ee7b06.css.map": "/static/css/main.03ee7b06.css.map",
-    "main.f95b36d4.js.map": "/static/js/main.f95b36d4.js.map",
-    "453.d55cc8a4.chunk.js.map": "/static/js/453.d55cc8a4.chunk.js.map"
+    "main.css": "/Triton-Tracker/static/css/main.03ee7b06.css",
+    "main.js": "/Triton-Tracker/static/js/main.f0722628.js",
+    "static/js/453.d55cc8a4.chunk.js": "/Triton-Tracker/static/js/453.d55cc8a4.chunk.js",
+    "static/media/poseidon.png": "/Triton-Tracker/static/media/poseidon.ef147e44afb3bcd8c980.png",
+    "static/media/loader.svg": "/Triton-Tracker/static/media/loader.a7b74ca303c23a254e43d0f57c4a9adc.svg",
+    "index.html": "/Triton-Tracker/index.html",
+    "main.03ee7b06.css.map": "/Triton-Tracker/static/css/main.03ee7b06.css.map",
+    "main.f0722628.js.map": "/Triton-Tracker/static/js/main.f0722628.js.map",
+    "453.d55cc8a4.chunk.js.map": "/Triton-Tracker/static/js/453.d55cc8a4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.03ee7b06.css",
-    "static/js/main.f95b36d4.js"
+    "static/js/main.f0722628.js"
   ]
 }
